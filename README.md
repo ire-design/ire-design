@@ -2,9 +2,9 @@
   
 - 👀 I’m interested in building scalable web applications, exploring new technologies, and solving complex programming challenges.
   
-- 🌱 I’m currently learning advanced React, RESTful APIs, and database management
+- 🌱 Currently learning advanced React, RESTful APIs, and database management
   
-- 💞️ I’m looking to collaborate on  open-source projects, web development, and innovative solutions in tech.
+- 💞️ Looking to collaborate on  open-source projects, web development, and innovative solutions in tech.
   
 - 📫 How to reach me: a) https://www.linkedin.com/in/irene-musau
   
