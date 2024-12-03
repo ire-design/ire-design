@@ -21,7 +21,6 @@ I'm a **full-stack web developer** and a passionate **software engineering stude
 - **Deployment:** Render, Netlify, Heroku, Vercel
 
 ---
-
 ## 👨‍💻 Languages and Tools
 
 Here are some of the tools and technologies I use:
@@ -37,6 +36,9 @@ Here are some of the tools and technologies I use:
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?logo=linux&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Render](https://img.shields.io/badge/-Render-4D75B1?logo=render&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
 
 ---
 
