@@ -1,8 +1,13 @@
-##  `const developer = "ire-design";`
+##  🚀`const developer = "ire-design";`
 
-As a **full-stack web developer** and a passionate **software engineering student** at Moringa School, currently pursuing a degree in **Computer Science** at Murang'a University of Technology, I thrive in building scalable and efficient web applications. My goal is to solve complex programming challenges, optimize performance, and contribute to impactful projects that push the boundaries of technology.
+As a passionate **software engineering student:full-stack web dev't** at Moringa School,
+currently pursuing a degree in **Computer Science** at Murang'a University of Technology, 
+I thrive in building scalable and efficient web applications. 
+My goal is to solve complex programming challenges,
+optimize performance, 
+and contribute to impactful projects that push the boundaries of technology.
 
-Whether it’s designing a sleek front-end UI or crafting robust back-end APIs with **Node.js** or **Flask**, I’m constantly learning and evolving in the tech space to make a meaningful impact.
+I’m constantly learning and evolving in the tech space to make a meaningful impact.
 
 ---
 
