@@ -20,6 +20,26 @@ I'm a **full-stack web developer** and a passionate **software engineering stude
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Linux
 - **Deployment:** Render, Netlify, Heroku, Vercel
 
+---
+
+## 👨‍💻 Languages and Tools
+
+Here are some of the tools and technologies I use:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square)
+![Terminal](https://img.shields.io/badge/-Terminal-black?logo=linux&logoColor=white&style=flat-square)
+
+---
+
 <!---
 ---
 
