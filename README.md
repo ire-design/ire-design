@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irene Musau (ire-design)
+## 👋 Hi, I'm Irene Musau (ire-design)
 
 I'm a **full-stack web developer** and a passionate **software engineering student** at Moringa School, currently pursuing a degree in **Computer Science** at Murang'a University of Technology. My mission is to build scalable and efficient web applications, solve complex programming challenges, and contribute to impactful projects in tech.
 
@@ -34,13 +34,15 @@ A modern task management app powered by React, showcasing dynamic state manageme
 A repository of JavaScript mini-projects demonstrating proficiency in DOM manipulation, ES6 features, and practical problem-solving.
 
 ---
---->
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ire-design&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ire-design&layout=compact&theme=radical)
 
 ---
+
+--->
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Irene Musau](https://www.linkedin.com/in/irene-musau/)
