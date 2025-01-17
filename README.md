@@ -22,8 +22,8 @@ I’m constantly learning and evolving in the tech space to make a meaningful im
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, PHP, Python, HTML, CSS
 - **Frontend Frameworks:** React, Bootstrap
-- **Backend:** Node.js,
-- **Databases:** MySQL
+- **Backend:** Node.js, Django, Flask
+- **Databases:** MySQL, SQLite
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Linux
 - **Deployment:** Render, Netlify, Heroku, Vercel
 
