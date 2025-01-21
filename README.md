@@ -23,7 +23,7 @@ I’m constantly learning and evolving in the tech space to make a meaningful im
 - **Languages:** JavaScript, PHP, Python, HTML, CSS
 - **Frontend Frameworks:** React, Bootstrap
 - **Backend:** Node.js, Django, Flask
-- **Databases:** MySQL, SQLite
+- **Databases:** PostgreSQL, MySQL, SQLite
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Linux
 - **Deployment:** Render, Netlify, Heroku, Vercel
 
