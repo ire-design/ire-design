@@ -1,4 +1,4 @@
-###  🚀`const developer = "ire-design";`
+### `const developer = "ire-design";`
 
 Software engineering graduate at Moringa School & Computer Science undergraduate (Murang'a University).  
 Passionate about building scalable full-stack web apps, solving complex problems, and optimizing performance.  
@@ -7,11 +7,11 @@ Always learning. Always improving.
 
 ---
 
-### 🌟 About Me  
-- 🔧 **Full-stack:** JavaScript (React, Node.js), REST APIs, databases  
-- 📚 **Learning:** Advanced React, backend, DB optimization  
-- 🤝 **Projects:** Open-source & modern web apps  
-- ⚡ **Fun fact:** I can explain recursion… eventually 😄
+### About Me  
+- **Full-stack:** JavaScript (React, Node.js), REST APIs, databases  
+- **Learning:** Advanced React, backend, DB optimization  
+- **Projects:** Open-source & modern web apps  
+- **Fun fact:** I can explain recursion… eventually 😄
 
 
 ---
