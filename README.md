@@ -1,4 +1,4 @@
-##  🚀`const developer = "ire-design";`
+###  🚀`const developer = "ire-design";`
 
 Software engineering graduate at Moringa School & Computer Science undergraduate (Murang'a University).  
 Passionate about building scalable full-stack web apps, solving complex problems, and optimizing performance.  
@@ -16,7 +16,7 @@ Always learning. Always improving.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 - **Languages:** JavaScript, PHP, Python, HTML, CSS
 - **Frontend Frameworks:** React, Bootstrap
 - **Backend:** Node.js, Django, Flask
