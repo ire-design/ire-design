@@ -11,12 +11,12 @@ Always learning. Always improving.
 - **Full-stack:** JavaScript (React, Node.js), REST APIs, databases  
 - **Learning:** Advanced React, backend, DB optimization  
 - **Projects:** Open-source & modern web apps  
-- **Fun fact:** I can explain recursion… eventually 😄
+- **Fun fact:** I can explain recursion… a minute or two 😄
 
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 - **Languages:** JavaScript, PHP, Python, HTML, CSS
 - **Frontend Frameworks:** React, Bootstrap
 - **Backend:** Node.js, Django, Flask
@@ -25,7 +25,7 @@ Always learning. Always improving.
 - **Deployment:** Render, Netlify, Heroku, Vercel
 
 ---
-## 👨‍💻 Languages and Tools
+### 👨‍💻 Languages and Tools
 
 Here are some of the tools and technologies I use:
 
