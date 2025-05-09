@@ -1,21 +1,18 @@
 ##  🚀`const developer = "ire-design";`
 
-As a passionate **software engineering student:full-stack web dev't** at Moringa School,
-currently pursuing a degree in **Computer Science** at Murang'a University of Technology, 
-I thrive in building scalable and efficient web applications. 
-My goal is to solve complex programming challenges,
-optimize performance, 
-and contribute to impactful projects that push the boundaries of technology.
+Software engineering graduate at Moringa School & Computer Science undergraduate (Murang'a University).  
+Passionate about building scalable full-stack web apps, solving complex problems, and optimizing performance.  
 
-I’m constantly learning and evolving in the tech space to make a meaningful impact.
+Always learning. Always improving.
 
 ---
 
-## 🌟 About Me
-- 🔭 **Specializing in:** Full-stack web development with expertise in JavaScript (React, Node.js), RESTful APIs, and database management.
-- 🌱 **Currently Learning:** Advanced React, backend development, and optimizing databases for performance.
-- 🤝 **Collaborating on:** Open-source projects, modern web applications, and innovative tech solutions.
-- ⚡ **Fun Fact:** I can explain recursion... if you give me a minute—or two!
+### 🌟 About Me  
+- 🔧 **Full-stack:** JavaScript (React, Node.js), REST APIs, databases  
+- 📚 **Learning:** Advanced React, backend, DB optimization  
+- 🤝 **Projects:** Open-source & modern web apps  
+- ⚡ **Fun fact:** I can explain recursion… eventually 😄
+
 
 ---
 
